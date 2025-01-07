@@ -1,9 +1,12 @@
 ## Giới thiệu
 Dự án này được phát triển bởi Hoàng Quang Huy - 21021663
+
 Đây là một dự án phát triển một ứng dụng di động dự báo thời tiết.
+
 Với ứng dụng này, bạn có thể xem các thông tin thời tiết hiện tại, dự báo thời tiết trong những ngày sắp tới và nhiều tính năng khác.
 
 Framework: React Native và Expo
+
 APIs: Open Weather App, Google Air Quality và Google Pollen API
 
 ## Tính năng chính

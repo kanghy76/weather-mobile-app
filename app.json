@@ -1,0 +1,66 @@
+{
+  "expo": {
+    "name": "1Weather",
+    "slug": "one-weather",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "notification":{
+      "icon":"./assets/notification-logo.png"
+    },
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permissions": [],
+      "package": "com.vu02102003.sample1",
+      "googleServicesFile": "./android/app/google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-localization",
+      [
+        "react-native-android-widget",
+        {
+          "widgets": [
+            {
+              "name": "Small",
+              "label": "Small Widget",
+              "minWidth": "180dp",
+              "minHeight": "30dp",
+              "previewImage": "./assets/widget-preview/small.png",
+              "updatePeriodMillis": 1800000
+            },
+            {
+              "name": "Big",
+              "label": "Big Widget",
+              "minWidth": "240dp",
+              "minHeight": "80dp",
+              "previewImage": "./assets/widget-preview/big.png",
+              "updatePeriodMillis": 1800000
+            }
+          ]
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-logo.png",
+          "defaultChannel": "Default"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1a2bb95b-c947-4601-adfe-2139b198fa9b"
+      }
+    }
+  }
+}
+

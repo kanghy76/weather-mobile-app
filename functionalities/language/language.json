@@ -1,0 +1,299 @@
+{
+    "en": {
+        "translation": {
+            "locationPermission": {
+                "title": "Precise Weather Information",
+                "subtext": "Enabling location services will provide you with accurate weather forecasts, important local alerts and much more features",
+                "allowButton": "Allow Location Service",
+                "rejectButton": "No, I do not allow"
+            },
+            "searchPage": {
+                "placeholder": "Search for a city",
+                "currentLocation": "Use Current Location",
+                "popularSuggestion": "Popular Cities",
+                "searchSuggestion": "Suggestions",
+                "mapPlaceholder": "Enter a location",
+                "fetch": "Fetching weather data.."
+            },
+            "languageAndUnitsPage": {
+                "title": "Language and Units",
+                "item1": "Language",
+                "units": "Units",
+                "standard": "Standard (K)",
+                "standardDetails": "Kelvin, Meter/Sec, hPa",
+                "metric": "Metric (°C)",
+                "metricDetails": "Celsius, Meter/Sec, hPa",
+                "imperial": "Imperial (°F)",
+                "imperialDetails": "Fahrenheit, Mile/Hour, In ('')"
+            },
+            "languagePage": {
+                "title": "Language",
+                "saveBtn": "Save"
+            },
+            "map": {
+                "auto": "Device Default",
+                "en": "English",
+                "vn": "Vietnamese"
+            },
+            "footer": {
+                "today": "today",
+                "forecast": "forecast",
+                "precip": "precip",
+                "radar": "radar",
+                "sun": "sun"
+            },
+            "taskbar": {
+                "location": "Locations",
+                "locEdit": "Edit",
+                "widget": "Add Widgets to Home Screen",
+                "noti": "Daily Summary a Notification",
+                "refer": "Refer a Friend",
+                "settings": "Settings",
+                "adFree": "Restore to AdFree",
+                "help": "Help",
+                "ads": "Remove Ads",
+                "privacy": "Privacy Settings",
+                "about": "About",
+                "referText": "Hello,\nHow's the weather there? I'd recommend you to check out 1Weather for accurate weather forecasts, helpful weather alerts and tips, live weather widgets, and detailed and easy-to-navigate radar tracking.\n\nThe app also features Shorts, a rail of fact-checked weather news cards with 60-word summaries. This keeps you updated on major weather and environmental news across the US and the world.\n\nDownload the app using my referral link here: \nhttps://openweather.com"
+            },
+            "settings": {
+                "title": "Settings",
+                "noti": "Manage Notifications", 
+                "lu": "Language and Units",
+                "theme": "Change App Theme",
+                "widget": "Configure Widget"
+            },
+            "weather": {
+                "feels": "Feels like",
+                "low": "Low",
+                "high": "High",
+                "wind": "Wind",
+                "humid": "Humidity",
+                "rain": "Rain",
+                "pressure": "Pressure"
+            },
+            "locationSettings": {
+                "title": "Favorite Locations",
+                "current": "Use Current Location"
+            },
+            "health": {
+                "title": "Health Center",
+                "air": "Air Quality Index",
+                "good": "Good",
+                "moderate": "Moderate",
+                "hazardous": "Hazardous",
+                "notfound": "No data for",
+                "allergy": "Allergy Outlook",
+                "grass": "Grass Pollen",
+                "weed": "Weed Pollen",
+                "tree": "Tree Pollen",
+                "none": "None",
+                "viewmore": "View more"
+            },
+            "today": {
+                "forecastTitle": "Weather Forecast",
+                "precipTitle": "Precipitation",
+                "rain": "Rain",
+                "daily": "Daily",
+                "hourly": "Hourly"
+            },
+            "sun": {
+                "title": "Sun",
+                "moon": "Moon",
+                "length": "Length of day",
+                "remain": "Remaining day light",
+                "moonrise": "Moonrise",
+                "moonset": "Moonset",
+                "sunrise": "Sunrise",
+                "sunset": "Sunset",
+                "new-moon": "New Moon",
+                "waning-crescent": "Waning Crescent",
+                "first-quarter": "First Quarter",
+                "waning-gibbous": "Waning Gibbous",
+                "full-moon": "Full Moon",
+                "waxing-crescent": "Waxing Crescent",
+                "waxing-gibbous": "Waxing Gibbous",
+                "last-quarter": "Last Quarter",
+                "today": "Today"
+            },
+            "widgetSettings": {
+                "title": "Widget Settings",
+                "location": "Location",
+                "preview": "Widget Preview",
+                "small": "Small Widget (3x1)",
+                "big": "Big Widget (5x4)",
+                "note1": "To add widgets, go to your home screen",
+                "note2": "Remember to find a location first"
+            },
+            "radar": {
+                "temp": "Temperature",
+                "precip": "Precipitation",
+                "wind": "Wind Speed",
+                "cloud": "Clouds",
+                "pressure": "Sea-level Pressure",
+                "opacity": "Weather Layer Opacity",
+                "layer": "Weather Layers"
+            },
+            "notification": {
+                "title": "Notifications",
+                "daily": "Send Daily Notification",
+                "live": "Get Live Weather Notifications",
+                "time": "Daily Time",
+                "location": "Location"
+            },
+            "main": {
+                "referText1": " is currently ",
+                "referText2": " | Get you up-to-date with the current weather now!"
+            }
+        }
+    },
+
+    "vn": {
+        "translation": {
+            "locationPermission": {
+                "title": "Dữ liệu thời tiết chuẩn xác",
+                "subtext": "Cho phép ứng dúng sử dụng vị trí sẽ giúp bạn có được dự báo thời tiết chính xác, cảnh báo quan trọng và nhiều tính năng khác",
+                "allowButton": "Cho phép sử dụng vị trí",
+                "rejectButton": "Không đồng ý sử dụng"
+            },
+            "searchPage": {
+                "placeholder": "Nhập tên thành phố của bạn",
+                "currentLocation": "Sử dụng vị trí hiện tại",
+                "popularSuggestion": "Các thành phố nổi tiếng",
+                "searchSuggestion": "Gợi ý",
+                "mapPlaceholder": "Nhập tên địa điểm",
+                "fetch": "Đang tải dữ liệu.."
+            },
+            "languageAndUnitsPage": {
+                "title": "Ngôn ngữ và Đơn vị",
+                "item1": "Ngôn ngữ",
+                "units": "Đơn vị",
+                "standard": "Tiêu chuẩn (K)",
+                "standardDetails": "Kelvin, Mét/Giây, hPa",
+                "metric": "Hệ mét (°C)",
+                "metricDetails": "Celsius, Mét/Giây, hPa",
+                "imperial": "Hệ đơn vị Anh (°F)",
+                "imperialDetails": "Fahrenheit, Dặm/Giờ, Inch ('')"
+            },
+            "languagePage": {
+                "title": "Ngôn ngữ",
+                "saveBtn": "Lưu"
+            },
+            "map": {
+                "auto": "Cài đặt mặc định",
+                "en": "Tiếng Anh",
+                "vn": "Tiếng Việt"
+            },
+            "footer": {
+                "today": "hôm nay",
+                "forecast": "dự báo",
+                "precip": "lượng mưa",
+                "radar": "radar",
+                "sun": "mặt trời"
+            },
+            "taskbar": {
+                "location": "Địa điểm",
+                "locEdit": "Chỉnh sửa",
+                "widget": "Thêm Widget vào màn hình",
+                "noti": "Thông báo hằng ngày",
+                "refer": "Gợi ý cho bạn bè",
+                "settings": "Cài đặt",
+                "adFree": "Khôi phục về AdFree",
+                "help": "Trợ giúp",
+                "ads": "Bỏ quảng cáo",
+                "privacy": "Cài đặt riêng tư",
+                "about": "Về chúng tôi",
+                "referText": "Xin chào,\nThời tiết ở đó như thế nào? Tôi khuyên bạn nên kiểm tra 1Weather để có dự báo thời tiết chính xác, cảnh báo thời tiết hữu ích và mẹo, tiện ích thời tiết trực tiếp và theo dõi radar chi tiết và dễ dàng điều hướng.\n\nỨng dụng cũng có tính năng Shorts, một thanh các thẻ tin tức thời tiết được kiểm tra thực tế với các bản tóm tắt 60 từ. Điều này giúp bạn cập nhật những tin tức lớn về thời tiết và môi trường trên khắp Hoa Kỳ và thế giới.\n\nTải xuống ứng dụng bằng liên kết giới thiệu của tôi tại đây: \nhttps://openweather.com"
+            },
+            "settings": {
+                "title": "Cài đặt",
+                "noti": "Cài đặt thông báo", 
+                "lu": "Ngôn ngữ và đơn vị",
+                "theme": "Chế độ sáng tối",
+                "widget": "Thiết lập Widget"
+            },
+            "weather": {
+                "feels": "Cảm giác như",
+                "low": "Thấp",
+                "high": "Cao",
+                "wind": "Tốc độ gió",
+                "humid": "Độ ẩm",
+                "rain": "Mưa",
+                "pressure": "Áp suất"
+            },
+            "locationSettings": {
+                "title": "Vị trí yêu thích",
+                "current": "Dùng vị trí hiện tại"
+            },
+            "health": {
+                "title": "Trung tâm Sức khỏe",
+                "air": "Chất lượng không khí",
+                "good": "Tốt",
+                "moderate": "Trung bình",
+                "hazardous": "Xấu",
+                "notfound": "Không có dữ liệu cho",
+                "allergy": "Cảnh báo dị ứng",
+                "grass": "Dị ứng cỏ",
+                "weed": "Dị ứng cỏ dại",
+                "tree": "Dị ứng cây",
+                "none": "Không",
+                "viewmore": "Xem chi tiết"
+            },
+            "today": {
+                "forecastTitle": "Dự báo thời tiết",
+                "precipTitle": "Giáng thủy",
+                "rain": "Lượng mưa",
+                "daily": "Theo ngày",
+                "hourly": "Theo giờ"
+            },
+            "sun": {
+                "title": "Mặt trời",
+                "moon": "Mặt trăng",
+                "length": "Thời gian ban ngày",
+                "remain": "Thời gian ban ngày còn lại",
+                "moonrise": "Trăng mọc",
+                "moonset": "Trăng lặn",
+                "sunrise": "Mặt trời mọc",
+                "sunset": "Mặt trời lặn",
+                "new-moon": "New Moon",
+                "waning-crescent": "Lưỡi liềm cuối",
+                "first-quarter": "Thượng huyền",
+                "waning-gibbous": "Khuyết cuối",
+                "full-moon": "Trăng tròn",
+                "waxing-crescent": "Lưỡi liềm đầu",
+                "waxing-gibbous": "Khuyết đầu",
+                "last-quarter": "Hạ huyền",
+                "today": "Hôm nay"
+            },
+            "widgetSettings": {
+                "title": "Cài đặt Widget",
+                "location": "Vị trí lấy dữ liệu",
+                "preview": "Xem trước các mẫu Widget",
+                "small": "Widget Bé (3x1)",
+                "big": "Widget To (5x4)",
+                "note1": "Để thêm widget, hãy đến màn hình chính của bạn",
+                "note2": "Hãy nhớ tìm một vị trí trước đó"
+            },
+            "radar": {
+                "temp": "Nhiệt độ",
+                "precip": "Lượng mưa",
+                "wind": "Tốc độ gió",
+                "cloud": "Mây",
+                "pressure": "Áp suất mực nước biển",
+                "opacity": "Độ mờ lớp thời tiết",
+                "layer": "Các lớp thời tiết"
+            },
+            "notification": {
+                "title": "Thông báo",
+                "daily": "Gửi thông báo hằng ngày",
+                "live": "Cập nhật theo thời gian thực",
+                "time": "Thời gian gửi thông báo",
+                "location": "Vị trí lấy dữ liệu"
+            },
+            "main": {
+                "referText1": " hiện đang là ",
+                "referText2": " | Cập nhật thông tin thời tiết chuẩn xác nhất!"
+            }
+        }
+    }
+}
